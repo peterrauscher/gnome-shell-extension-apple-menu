@@ -1,7 +1,7 @@
 .menu-button {
-	width: 16px;
-	height: 16px;
-	margin: 1px 0 0 0;
-	background: url('Resources/menu.svg');
-	background-size: 16px;
+  width: 16px;
+  height: 16px;
+  margin: 1px 0 0 0;
+  background: url("Resources/menu.svg");
+  background-size: 16px;
 }
